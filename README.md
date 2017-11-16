@@ -1,6 +1,6 @@
 # ReAl Template for Lumino
 
-[![Build status](https://ci.appveyor.com/api/projects/status/13vjue58ua69b4uc?svg=true)](https://ci.appveyor.com/project/re_al_/real-template-materialadmin)
+[![Build status](https://ci.appveyor.com/api/projects/status/h2gb83cvhb2vi3al?svg=true)](https://ci.appveyor.com/project/re_al_/real-template-lumino)
 
 ---------------------------------------
 
