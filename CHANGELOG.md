@@ -12,6 +12,7 @@ Estos son cambios que se han implementado respectivamente.
 **2017-11-18**
 
 - [x] Implementación de selección de modulos y eliminacion de barra de notificaciones
+- [x] Implmentacion de [bootstrap-select](https://silviomoreto.github.io/bootstrap-select/)
 
 
 ## 1.1
