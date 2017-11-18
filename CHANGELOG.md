@@ -6,6 +6,14 @@
 
 Estos son cambios que se han implementado respectivamente.
 
+
+## 2.0
+
+**2017-11-18**
+
+- [x] Implementación de selección de modulos y eliminacion de barra de notificaciones
+
+
 ## 1.1
 
 **2017-11-18**
