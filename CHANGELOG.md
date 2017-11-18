@@ -6,6 +6,13 @@
 
 Estos son cambios que se han implementado respectivamente.
 
+## 1.1
+
+**2017-11-18**
+
+- [x] Implementación del resto de paginas de ejemplo de la plantilla
+
+
 ## 1.0
 
 **2017-11-16**
