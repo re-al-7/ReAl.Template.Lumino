@@ -13,8 +13,7 @@
     "inputFiles": [
       "wwwroot/lib/jquery/dist/jquery.min.js",
       "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
-      "wwwroot/lib/bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js",
-      "wwwroot/js/custom.js"
+      "wwwroot/lib/bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js"
     ],
     "minify": {
       "enabled": true,
