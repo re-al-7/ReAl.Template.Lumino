@@ -1,12 +1,12 @@
 ﻿using System.Collections.Generic;
 using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.RazorPages;
 using ReAl.Template.Lumino.Dal.Entidades;
 using ReAl.Template.Lumino.Helpers;
 
-namespace ReAl.Template.Lumino.Controllers
+namespace ReAl.Template.Lumino.Models
 {
-    public class BaseController : Controller
+    public class BasePageModel : PageModel
     {
         public string getLogin()
         {
