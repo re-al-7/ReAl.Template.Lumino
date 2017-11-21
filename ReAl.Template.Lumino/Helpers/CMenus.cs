@@ -37,8 +37,8 @@ namespace ReAl.Template.Lumino.Helpers
             if (miContexto.Session.GetString("currentApp") == "CLA")
             {
                 obj = new EntSegPaginas();
-                obj.descripcionspg = "Hijo CLA";
-                obj.nombrespg = "dashboard";
+                obj.descripcionspg = "Aplicaciones";
+                obj.nombrespg = "SegAplicaciones";
                 obj.nombremenuspg = "index";
                 lstPaginas.Add(obj);
             }

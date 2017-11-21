@@ -8,6 +8,7 @@ using Microsoft.AspNetCore.ResponseCompression;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
+using ReAl.Template.Lumino.Helpers;
 
 namespace ReAl.Template.Lumino
 {
@@ -136,6 +137,9 @@ namespace ReAl.Template.Lumino
                     name: "default",
                     template: "{controller=Account}/{action=Login}/{id?}");
             });
+            
+            //Datos de Prueba
+            DataExample.CargarListadoApp();
         }
     }
 }
